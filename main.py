@@ -31,4 +31,4 @@ for thing in new_dictionary:
     tmp = int(new_dictionary[thing])
     x = thing
 
-print(f"The winner is {x} with a bid {tmp}.")
+print(f"The winner is {x} with a bid ${tmp}.")
